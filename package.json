@@ -1,0 +1,29 @@
+{
+  "name": "twssbot",
+  "version": "1.0.0",
+  "description": "A naive bayesian classifier of the 'thats what she said' phrase as a telegram bot.",
+  "main": "twssbot.js",
+  "dependencies": {
+    "classifier": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjconlan/twssbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "twss",
+    "classifier"
+  ],
+  "author": "Benjamin Conlan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bjconlan/twssbot/issues"
+  },
+  "homepage": "https://github.com/bjconlan/twssbot#readme"
+}
